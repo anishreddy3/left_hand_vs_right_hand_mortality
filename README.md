@@ -1,0 +1,1 @@
+## Mortality difference b/w left and right hand people using Bayesian Statistics
