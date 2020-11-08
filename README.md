@@ -18,3 +18,7 @@ All the following libraries are needed to implement this project:
 **Matplotlib**<br>
 **Seaborn**<br>
 **Numpy**<br>
+
+### Project Motivation <a name = "motivation"></a>
+
+The aim of this project is to explore several datasets and come up with enough evidence to refute the claim of early death for left-handers. We will be making use of Bayesian Statistics to support our analysis.
